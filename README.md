@@ -1,1 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=ValeryShilov&style=flat-square&color=blue" alt=""/>
+</div>
